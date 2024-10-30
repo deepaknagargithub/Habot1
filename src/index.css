@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.layout {
+  width: 100%;
+  height: 3417px;
+}
+.rectangle {
+  height: 609px;
+}
+.navbar {
+  height: 86px;
+}
+
+.navbar-img {
+  width: 181px;
+}
+
+.rectangle-img-div {
+  height: 523px;
+}
+
+.rectangle-img {
+  height: 523px;
+  background-image: url("https://s3-alpha-sig.figma.com/img/4df9/f396/c8b4ef806609efd227c6672c5dba3716?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gBRDD07NEtomnqqICw1c1L84zr1mvk9jFSjxItK4Fh6m-VdGsc7eokJ3jkAaItGO0lWHCoPLQHt5Zmj0tfeIHZXakwjHqj8-8sWqk~DMIjHNrAj86~yB331UitE107JvsSyCug7fOVM3U3AzBzf1uRcoAn4gu7V65FVg8wL0D~TSPHG2GmD~Pu5eJSG1TgODIjttsbMl~cZQRf7eLJVzjNO84W7rJ~oFlVMf-vCDzkajJrGMoVX9rhOlyMkYyofKsSQBOIjoLtWpQLxcQqqNHHvGkjuHo5pXGJgs8rfdDVcTxSpz9AyePtmVuFSXqPwxYhjrSps9zpYD7lZMnZMLBg__");
+}
+
+.step2 {
+  height: 623px;
+}
+
+.step2-img {
+  background-image: url("https://s3-alpha-sig.figma.com/img/2909/031e/3307f64812ef70cd9d8e886864fad468?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ie8JIcdoaecK49Py-ZlNFOYR6jT2Fx-7xXzo21AIWfeTLx83b2h00bGyxjk6bngZl9TGjFieXYcXXxBAJffGpv~jHT-rJNgKoW68bJAgVp1J5y~1qpLaL57EMrFlO4NCwuZEIuseA6d1vuyy76MWin1q-7gOs3FZHERqhOm0WNygor8LRCfK9Lid2cLRqdqDeCYoP-1o77-STxIaenbXO~SwbWwoT9ow4F11Vvqynw7PliCbjlKVLdQuPhH2H8hhuVJfoPIMJPOLfizu-mDoy7UI3D369EPRqAC2AZCwe2UeRoi3n36huukyjcPjzAZlX3crTNWA4PKqW0MSVSd-1A__");
+}
+.step4 {
+  height: 800px;
+}
